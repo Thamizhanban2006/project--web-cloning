@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+    color:white;
+}
+#lists{
+    list-style:none;
+    align-items: first baseline;
+    list-style-position:initial;
+ 
+}
+ll{
+    align-items: flex-start;
+}
+#youtubelogo{
+    padding-left: 20px;
+
+}
+#sb{
+    display: inline-block;
+    margin-left:300px;
+    border-color:grey;
+    width:300px;
+    background-origin: padding-box;
+}
+
+#ss{
+    padding:10px solid red;
+    background-color:grey;
+    border:10px;
+    border-color: antiquewhite;
+    width:400px;
+    height:30px;
+    text-align:start;
+    display: inline-block;
+     margin-left: 250px;
+}
+#lens{
+margin-right:20px;
+}
+#top{
+    float:inline-end;
+    display: inline;
+    vertical-align: baseline;
+
+}
+.tn{
+    margin-left:200px;
+    display:list-item;
+    align-items: center;
+}
